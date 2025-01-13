@@ -29,6 +29,8 @@ A powerful Windows UI monitoring and DNS exfiltration tool written in Rust, comb
 - Custom DNS server support
 - Configurable throttling and chunk sizes
 - Comprehensive error handling and logging
+  
+<img width="1002" alt="image" src="https://github.com/user-attachments/assets/4d71aee2-1aa5-4d09-840b-b351ea29c07d" />
 
 ## Building
 
