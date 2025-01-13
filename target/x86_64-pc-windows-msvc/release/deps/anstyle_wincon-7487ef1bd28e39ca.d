@@ -1,0 +1,10 @@
+/Users/jacobwohl/Desktop/rustyspy/target/x86_64-pc-windows-msvc/release/deps/libanstyle_wincon-7487ef1bd28e39ca.rmeta: /Users/jacobwohl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-wincon-3.0.6/src/lib.rs /Users/jacobwohl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-wincon-3.0.6/src/ansi.rs /Users/jacobwohl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-wincon-3.0.6/src/stream.rs /Users/jacobwohl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-wincon-3.0.6/src/windows.rs
+
+/Users/jacobwohl/Desktop/rustyspy/target/x86_64-pc-windows-msvc/release/deps/libanstyle_wincon-7487ef1bd28e39ca.rlib: /Users/jacobwohl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-wincon-3.0.6/src/lib.rs /Users/jacobwohl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-wincon-3.0.6/src/ansi.rs /Users/jacobwohl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-wincon-3.0.6/src/stream.rs /Users/jacobwohl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-wincon-3.0.6/src/windows.rs
+
+/Users/jacobwohl/Desktop/rustyspy/target/x86_64-pc-windows-msvc/release/deps/anstyle_wincon-7487ef1bd28e39ca.d: /Users/jacobwohl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-wincon-3.0.6/src/lib.rs /Users/jacobwohl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-wincon-3.0.6/src/ansi.rs /Users/jacobwohl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-wincon-3.0.6/src/stream.rs /Users/jacobwohl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-wincon-3.0.6/src/windows.rs
+
+/Users/jacobwohl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-wincon-3.0.6/src/lib.rs:
+/Users/jacobwohl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-wincon-3.0.6/src/ansi.rs:
+/Users/jacobwohl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-wincon-3.0.6/src/stream.rs:
+/Users/jacobwohl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-wincon-3.0.6/src/windows.rs:

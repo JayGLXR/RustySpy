@@ -1,0 +1,38 @@
+TARGET = Some("aarch64-apple-darwin")
+OPT_LEVEL = Some("0")
+TARGET = Some("aarch64-apple-darwin")
+TARGET = Some("aarch64-apple-darwin")
+HOST = Some("aarch64-apple-darwin")
+CFLAGS_aarch64-apple-darwin = None
+CFLAGS_aarch64_apple_darwin = None
+HOST_CFLAGS = None
+CFLAGS = None
+DEBUG = Some("true")
+running: "cc" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-Wall" "-Wextra" "-o" "/Users/jacobwohl/Desktop/rustyspy/target/debug/build/rust-crypto-aa60f25be536fe1b/out/src/util_helpers.o" "-c" "src/util_helpers.c"
+exit status: 0
+TARGET = Some("aarch64-apple-darwin")
+OPT_LEVEL = Some("0")
+TARGET = Some("aarch64-apple-darwin")
+TARGET = Some("aarch64-apple-darwin")
+HOST = Some("aarch64-apple-darwin")
+CFLAGS_aarch64-apple-darwin = None
+CFLAGS_aarch64_apple_darwin = None
+HOST_CFLAGS = None
+CFLAGS = None
+DEBUG = Some("true")
+running: "cc" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-Wall" "-Wextra" "-o" "/Users/jacobwohl/Desktop/rustyspy/target/debug/build/rust-crypto-aa60f25be536fe1b/out/src/aesni_helpers.o" "-c" "src/aesni_helpers.c"
+exit status: 0
+TARGET = Some("aarch64-apple-darwin")
+TARGET = Some("aarch64-apple-darwin")
+HOST = Some("aarch64-apple-darwin")
+AR_aarch64-apple-darwin = None
+AR_aarch64_apple_darwin = None
+HOST_AR = None
+AR = None
+TARGET = Some("aarch64-apple-darwin")
+TARGET = Some("aarch64-apple-darwin")
+running: "ar" "crs" "/Users/jacobwohl/Desktop/rustyspy/target/debug/build/rust-crypto-aa60f25be536fe1b/out/lib_rust_crypto_helpers.a" "/Users/jacobwohl/Desktop/rustyspy/target/debug/build/rust-crypto-aa60f25be536fe1b/out/src/util_helpers.o" "/Users/jacobwohl/Desktop/rustyspy/target/debug/build/rust-crypto-aa60f25be536fe1b/out/src/aesni_helpers.o"
+exit status: 0
+TARGET = Some("aarch64-apple-darwin")
+cargo:rustc-link-lib=static=_rust_crypto_helpers
+cargo:rustc-link-search=native=/Users/jacobwohl/Desktop/rustyspy/target/debug/build/rust-crypto-aa60f25be536fe1b/out

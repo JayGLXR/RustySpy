@@ -1,0 +1,11 @@
+/Users/jacobwohl/Desktop/rustyspy/target/x86_64-pc-windows-msvc/release/deps/liblibc-cb3d7b9350684390.rmeta: /Users/jacobwohl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libc-0.2.169/src/lib.rs /Users/jacobwohl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libc-0.2.169/src/macros.rs /Users/jacobwohl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libc-0.2.169/src/fixed_width_ints.rs /Users/jacobwohl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libc-0.2.169/src/windows/mod.rs /Users/jacobwohl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libc-0.2.169/src/windows/msvc/mod.rs
+
+/Users/jacobwohl/Desktop/rustyspy/target/x86_64-pc-windows-msvc/release/deps/liblibc-cb3d7b9350684390.rlib: /Users/jacobwohl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libc-0.2.169/src/lib.rs /Users/jacobwohl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libc-0.2.169/src/macros.rs /Users/jacobwohl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libc-0.2.169/src/fixed_width_ints.rs /Users/jacobwohl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libc-0.2.169/src/windows/mod.rs /Users/jacobwohl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libc-0.2.169/src/windows/msvc/mod.rs
+
+/Users/jacobwohl/Desktop/rustyspy/target/x86_64-pc-windows-msvc/release/deps/libc-cb3d7b9350684390.d: /Users/jacobwohl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libc-0.2.169/src/lib.rs /Users/jacobwohl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libc-0.2.169/src/macros.rs /Users/jacobwohl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libc-0.2.169/src/fixed_width_ints.rs /Users/jacobwohl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libc-0.2.169/src/windows/mod.rs /Users/jacobwohl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libc-0.2.169/src/windows/msvc/mod.rs
+
+/Users/jacobwohl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libc-0.2.169/src/lib.rs:
+/Users/jacobwohl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libc-0.2.169/src/macros.rs:
+/Users/jacobwohl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libc-0.2.169/src/fixed_width_ints.rs:
+/Users/jacobwohl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libc-0.2.169/src/windows/mod.rs:
+/Users/jacobwohl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libc-0.2.169/src/windows/msvc/mod.rs:

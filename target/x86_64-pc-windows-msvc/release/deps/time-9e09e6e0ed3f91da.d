@@ -1,0 +1,11 @@
+/Users/jacobwohl/Desktop/rustyspy/target/x86_64-pc-windows-msvc/release/deps/libtime-9e09e6e0ed3f91da.rmeta: /Users/jacobwohl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.45/src/lib.rs /Users/jacobwohl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.45/src/display.rs /Users/jacobwohl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.45/src/duration.rs /Users/jacobwohl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.45/src/parse.rs /Users/jacobwohl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.45/src/sys.rs
+
+/Users/jacobwohl/Desktop/rustyspy/target/x86_64-pc-windows-msvc/release/deps/libtime-9e09e6e0ed3f91da.rlib: /Users/jacobwohl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.45/src/lib.rs /Users/jacobwohl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.45/src/display.rs /Users/jacobwohl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.45/src/duration.rs /Users/jacobwohl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.45/src/parse.rs /Users/jacobwohl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.45/src/sys.rs
+
+/Users/jacobwohl/Desktop/rustyspy/target/x86_64-pc-windows-msvc/release/deps/time-9e09e6e0ed3f91da.d: /Users/jacobwohl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.45/src/lib.rs /Users/jacobwohl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.45/src/display.rs /Users/jacobwohl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.45/src/duration.rs /Users/jacobwohl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.45/src/parse.rs /Users/jacobwohl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.45/src/sys.rs
+
+/Users/jacobwohl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.45/src/lib.rs:
+/Users/jacobwohl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.45/src/display.rs:
+/Users/jacobwohl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.45/src/duration.rs:
+/Users/jacobwohl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.45/src/parse.rs:
+/Users/jacobwohl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/time-0.1.45/src/sys.rs:
