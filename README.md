@@ -1,6 +1,6 @@
 # RustySpy
 
-A powerful Windows UI monitoring and DNS exfiltration tool written in Rust, combining advanced UI event capture capabilities with secure data exfiltration features.
+A powerful Windows UI monitoring and DNS exfiltration tool written in Rust, combining advanced UI event capture capabilities with secure data exfiltration and EDR suppression features.
 
 ## Core Features
 
